@@ -30,3 +30,11 @@ sudo ./user_manager.sh
 
 ## Screenshots
 Add screenshots here.
+
+   ## Screenshots
+
+   ### Health check
+   ![Health check output](health_check.png)
+
+   ### User manager menu
+   ![User manager menu](user_manager.png)
