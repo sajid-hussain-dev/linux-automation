@@ -28,6 +28,18 @@ sudo ./user_manager.sh
 - Backups with tar, find and cron
 - Logging and error handling
 
+### server_hardening.sh
+Hardens an Ubuntu server: UFW firewall, SSH hardening, fail2ban and automatic security updates.
+```bash
+sudo ./server_hardening.sh
+```
+
+### log_analyzer.sh
+Analyzes SSH logs: failed logins, top attacker IPs, usernames tried and successful logins.
+```bash
+sudo ./log_analyzer.sh /var/log/auth.log 5
+```
+
 ## Screenshots
 Add screenshots here.
 
